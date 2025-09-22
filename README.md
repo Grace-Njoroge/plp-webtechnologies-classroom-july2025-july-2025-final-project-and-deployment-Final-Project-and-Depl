@@ -29,6 +29,7 @@ plp-webtechnologies-classroom-july2025-july-2025-final-project-and deployment-Fi
 
 ├── styles/
 │   └── style.css       # All styling for the website
+
 ├── js/
 │   └── script.js       # All JavaScript for interactivity
 

@@ -1,90 +1,52 @@
-# 📦 Final Assignment: Build, Organize, and Deploy a Multipage Website
+🐾 PawfectMatch
+Find Your New Best Friend!
+PawfectMatch is a multipage website designed to help connect people with adoptable pets in need of a loving home. The site features a clean, responsive design and is built using fundamental web technologies. It serves as a showcase of a cohesive, organized, and deployable web project.
 
-You're now ready to bring everything together—HTML, CSS, JavaScript, planning, structure, and deployment. This final project challenges you to **conceptualize, build, and deploy a multi-page website** that is responsive, interactive, and ready for the real world.
+✨ Features
+Multipage Navigation: Seamlessly navigate between the Home, Gallery, and Contact pages.
 
-This assignment will guide you from planning your site all the way to deploying it online. Let’s make your project *production-worthy*! 🚀
+Responsive Design: The layout adapts gracefully to various screen sizes, from desktops to mobile phones.
 
----
+Interactive Gallery: A grid-based gallery showcases adoptable pets with a subtle hover effect for a more engaging user experience.
 
-## 🌐🎯 Part 1: Planning and Organizing a Multipage Website
+Form Validation: The contact form uses JavaScript to validate user input before submission, ensuring data integrity.
 
-Before you write any code, take time to plan:
+Clean Code: The project follows best practices for file organization and code readability, making it easy to maintain and scale.
 
-* Define your website's purpose (portfolio, product showcase, blog, etc.)
-* Outline 3–5 pages (e.g., Home, About, Services, Contact, Gallery)
-* Sketch or describe the layout of each page
-* Map out internal navigation (how pages link to one another)
+📁 Project Structure
+The project is organized into a logical and professional folder structure:
 
-**Goal:** Show intentional structure and user journey across the site.
+pawfectmatch/
+├── index.html          # The home page
+├── gallery.html        # The gallery of adoptable pets
+├── contact.html        # The contact page with a form
+├── styles/
+│   └── style.css       # All styling for the website
+├── js/
+│   └── script.js       # All JavaScript for interactivity
 
----
+🚀 How to Run
+To view this project locally, follow these steps:
 
-## 🌍💻 Part 2: Build the Website Using HTML5, CSS, and JavaScript
+Clone the repository to your local machine:
+git clone [https://github.com/Grace-Njoroge/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git]
 
-Using your plan, begin building:
+Navigate to the project directory:
+cd pawfectmatch
 
-* Use HTML5 for semantic structure
-* Apply CSS for responsive layout, styling, and animations
-* Use JavaScript to add interactivity (menus, forms, toggles, dynamic content)
+Open index.html in your web browser.
 
-Each page should:
+🔗 Live Demo
+You can view a live version of the website here:
 
-* Be mobile-responsive
-* Share a consistent layout/header/footer
-* Include at least one interactive element (e.g., form validation, toggle menu, animation on scroll)
+https://your-github-username.github.io/your-repository-name/
 
-**Goal:** Integrate everything you’ve learned in a cohesive, functioning project.
 
----
 
-## 🛠️🚀 Part 3: Best Practices for Code Organization
+🛠️ Technologies Used
+HTML5 - For semantic page structure.
 
-Before deployment, refactor your project to follow production-friendly practices:
+CSS3 - For styling and responsive design.
 
-* Organize files in folders (`/css`, `/js`, `/images`, etc.)
-* Write clean, modular, and commented code
-* Use meaningful file names and relative paths
-* Validate your HTML/CSS and test on different screen sizes
+JavaScript - For form validation and other interactive elements.
 
-**Goal:** Prepare your codebase to be readable, maintainable, and scalable.
-
----
-
-## 🌐🚀 Part 4: Introduction to Hosting and Deployment
-
-Once your project is complete, choose a method to **host your site online**.
-
-You can use:
-
-* **GitHub Pages** (great for portfolios and static sites)
-* **Netlify** (powerful CI/CD features and easy form support)
-* **Vercel** (lightning-fast deployment for frontend projects)
-
-Deploy your project and confirm that:
-
-* All links and scripts work
-* It loads properly on mobile and desktop
-* It has a clear, shareable URL
-
-**Goal:** Publish your work online and make it accessible to the world.
-
----
-
-## Deliverables
-
-1. A GitHub repository containing:
-
-   * Your complete project code, properly organized
-   * A `README.md` file explaining your project purpose, structure, and live URL
-2. A live deployed website (hosted via GitHub Pages, Netlify, or Vercel)
-
----
-
-## Outcome
-
-* Clarity and thoroughness of planning documentation
-* Proper use of HTML5, CSS, and JavaScript across multiple pages
-* Responsive and accessible design
-* Clean, well-organized, and commented code
-* Successful live deployment with a working link
-* Evidence of following best practices

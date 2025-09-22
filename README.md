@@ -16,7 +16,7 @@ Clean Code: The project follows best practices for file organization and code re
 📁 Project Structure
 The project is organized into a logical and professional folder structure:
 
-pawfectmatch/
+plp-webtechnologies-classroom-july2025-july-2025-final-project-and deployment-Final-Project-and-Depl
 ├── index.html          # The home page
 ├── gallery.html        # The gallery of adoptable pets
 ├── contact.html        # The contact page with a form
@@ -32,15 +32,14 @@ Clone the repository to your local machine:
 git clone [https://github.com/Grace-Njoroge/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl.git]
 
 Navigate to the project directory:
-cd pawfectmatch
+cd plp-webtechnologies-classroom-july2025-july-2025-final-project-and deployment-Final-Project-and-Depl
 
 Open index.html in your web browser.
 
 🔗 Live Demo
 You can view a live version of the website here:
 
-https://your-github-username.github.io/your-repository-name/
-
+https://grace-njoroge.github.io/plp-webtechnologies-classroom-july2025-july-2025-final-project-and-deployment-Final-Project-and-Depl/
 
 
 🛠️ Technologies Used

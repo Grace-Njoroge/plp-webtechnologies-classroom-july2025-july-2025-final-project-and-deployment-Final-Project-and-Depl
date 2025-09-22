@@ -22,8 +22,11 @@ The project is organized into a logical and professional folder structure:
 plp-webtechnologies-classroom-july2025-july-2025-final-project-and deployment-Final-Project-and-Depl
 
 ├── index.html          # The home page
+
 ├── gallery.html        # The gallery of adoptable pets
+
 ├── contact.html        # The contact page with a form
+
 ├── styles/
 │   └── style.css       # All styling for the website
 ├── js/
